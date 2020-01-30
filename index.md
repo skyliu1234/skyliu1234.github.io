@@ -1,4 +1,4 @@
-Hello, let's start thinking and learning 
+Hello , good day.
 
 ##  start install shadowsocks
 sudo add-apt-repository ppa:hzwhuang/ss-qt5  
@@ -27,3 +27,16 @@ export http_proxy=http://localhost:8123
 
 
 git config --global http.proxy localhost:8123  
+
+
+
+## shadowrocket install for iphone
+
+https://v2server.github.io/ios/
+
+美区 appid
+
+用户名 4ssgit@Gmail.com
+
+密码 V2Server
+
